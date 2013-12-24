@@ -1,6 +1,6 @@
-#SLCCProjects
+SLCCProjects
 ============
-A sample of some of the projects I worked on while at SLCC
+A sample of a few of the projects I worked on while at SLCC
 
 
 ## C♯ Weather Application
