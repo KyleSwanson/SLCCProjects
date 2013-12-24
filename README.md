@@ -13,6 +13,9 @@ This project implemented calls to a web service hosted by WeatherUnderground to 
 ## Ruby Trip Through Germany Problem
 **Folder** *[Ruby_Trip_Through_Germany_Problem](https://github.com/KyleSwanson/SLCCProjects/tree/master/Ruby_Trip_Through_Germany_Problem)*
 
-For this assignment we were given a list of cities in Germany.
+For this assignment we were given a list of cities in Germany, then asked to find the most efficient way to travel between all the given cities. This assignment used a SQLite3 database to store information about places visited. I created a set of objects to make it easier for inserting and accessing cities in my database. It could be used like this: 
+`basel = Place.create(:name=>"Basel", :expenses=>12000, :country=>"Switzerland")`
+
+
 
 ============
