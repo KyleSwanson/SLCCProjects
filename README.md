@@ -20,7 +20,8 @@ Using the information from the database the program tried to find the most optim
 ============
 
 ## Java Flip Book Application
-**Folder** *[Java_Flip_Book](https://github.com/KyleSwanson/SLCCProjects/tree/master/Ruby_Trip_Through_Germany_Problem)*
+**Folder** *[Java_Flip_Book](https://github.com/KyleSwanson/SLCCProjects/tree/master/Java_Flip_Book)*
 
 In this team project, we were assigned to make a Flip Book application. The user should be able to draw multiple slides using an array of drawing tools. Then playback the slides, and be able to export them to a video playable in most media players. Our application is able to do all of the above, including adjusting the playback speed, cloning slides, and many more features. 
+
 ============
