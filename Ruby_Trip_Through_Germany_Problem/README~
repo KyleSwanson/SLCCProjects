@@ -1,0 +1,8 @@
+Use the Gemfile (bundle). It will install everything for you. Kinda, you will need sqlite3 installed. On Ubuntu (most linux distros I imagine) install this -> libsqlite3-dev
+Run the gemfile like "bundle install"
+
+Oh, and use RVM and GEM for everything. It will make your life so much easier. 
+
+I have no clue what Windows or Mac users should do. 
+
+-Kyle Swanson

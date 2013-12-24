@@ -9,3 +9,10 @@ A sample of a few of the projects I worked on while at SLCC
 This project implemented calls to a web service hosted by WeatherUnderground to fetch weather for a specified zip code to JSon. The application then parsed the results, and displayed them in a user friendly WPF gui.
 
 ============
+
+## Ruby Trip Through Germany Problem
+**Folder** **
+
+For this assignment we were given a list of cities in Germany.
+
+============

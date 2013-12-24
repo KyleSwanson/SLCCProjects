@@ -1,0 +1,19 @@
+require 'dbi'
+
+
+class Database
+        @@name = "trip_db"
+        @@user = "kyle"
+        
+
+        def initialize(*args)
+        end
+        
+        def create()
+                puts "Creating Database..."
+                DBI.connect('DBI:SQLite3:%s' % @@name, @@user, 'ruby') do |dbh|
+                          dbh.do('CREATE TABLE slugs(name varchar(20), age int);') rescue puts "TABLE slugs already exists."
+
+                end
+        end
+end

@@ -1,0 +1,41 @@
+Here is your assignment as follows: 
+ 
+You have come into some money and would like to take your parents and grandparents on a once-in-a-lifetime trip before the Fed completely devalues the US currency and the Euro is worthless.  Oma and Opa live in Chicago and are elated by the 2008 election results.  Your parents have recently moved to Nashville, Tn.  You will be taking your Mom, Dad, Oma and Opa back to Germany to visit all of the places that were near/dear to their hearts growing up, especially before the war. 
+
+Here are the cities as follows: 
+
+22 Cites
+
+Rostock 
+Lubeck (home of the best marzipan) 
+Hamburg (Oma/Opa want to drive under the river - a taxi can do this as well) 
+Bremen 
+Hannover (Consumer Electronics haven - purchase each a new iPad at 180 Euros each) 
+Kassel 
+Dusseldorf 
+Koln (taxi will be needed to visit the castle 10km away from the hauptbahnhof) 
+St. Augustine 
+Bonn 
+Wiesbaden 
+** Frankfurt 
+Mannheim 
+Karlsruhe 
+Baden Baden (Oma wants to visit a Spa here, therefore, you will need to spend the day) 
+** Stuttgart 
+** Munchen (Munich) 
+Nurnberg 
+Dresden 
+Leipzig 
+** Berlin 
+Basel, Switzerland (Opa and Dad want to purchase a nice watch and this is the best place for such a purchase - you will be spending $6k/watch) 
+
+You will be using Priceline.com, Travelocity.com, Orbitz.com or whatever online travel site you would like to use.  As Oma/Opa are advancing in years, you want to minimize time traveled (Oma can basically only handle short periods of time traveling, especially with a bad back). 
+
+The cities that are starred are the only cities you are allowed as a starting point (or entry into Germany), because your plane arrives into Germany from the US.  You will have the option of renting a car, or taking the ICE train http://www.raileurope.com/train-faq/european-trains/ice/how-to-book.h... 
+If you take the train, you will need to take a taxi (1,2 Euros/km traveled).  Most taxis can barely accommodate 5 people comfortably. 
+
+You are not only going to calculate the optimal route based on the TSP, but you will also need to MINIMIZE your costs.  If you rent a car, it will cost roughly 300 Euros/week for Diesels and 350 Euros/week for petrol based cars plus taxes.  Normally taxes for these cars are 2x the base rate (eg. 300 Euros because you rented this from the airport; 300 Euros German taxes).  Travel speed from point-to-point is roughly 130kmh (max).  If you drive a Turbo Diesel (Audi/BMW/VW), you can get roughly 13km/liter and petrol based cars can get a little bit better mileage at about 22km/liter  and current petrol prices can be found here: http://www.aaireland.ie/AA/Motoring-advice/Petrol-Prices.aspx 
+
+For the database chapter you will be collecting ALL of the necessary data for this assignment placing this data in an open source database of your own choice (MySQL, postgres, sqllite, etc.)  You will also be using this to pull and store your data for whatever algorithm you feel will work the best below.  Hint: you might want ALL of the data in your database already calculated?  Remember, I want this as km/Euros and then have your program use http://www.xe.com/ to convert to miles/km. 
+
+For the chapters on Graphs/Trees you will be using Dijkstra, Prim or possibly Kruskal's algorithms to solve the optimization piece of cost, time & travel. Bonus points for the one who optimizes all of the constraints.  I would like a bottom line COST, TIME and ROUTE for this trip.  As in Physics problems, omit friction and food costs.
