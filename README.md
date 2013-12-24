@@ -11,7 +11,7 @@ This project implemented calls to a web service hosted by WeatherUnderground to 
 ============
 
 ## Ruby Trip Through Germany Problem
-**Folder** **
+**Folder** *[Ruby_Trip_Through_Germany_Problem](https://github.com/KyleSwanson/SLCCProjects/tree/master/Ruby_Trip_Through_Germany_Problem)*
 
 For this assignment we were given a list of cities in Germany.
 
